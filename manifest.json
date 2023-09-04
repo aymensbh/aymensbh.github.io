@@ -1,6 +1,6 @@
 {
-    "name": "portfolio",
-    "short_name": "portfolio",
+    "name": "sehati_dashboard",
+    "short_name": "sehati_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
