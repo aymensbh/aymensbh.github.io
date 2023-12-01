@@ -1,6 +1,6 @@
 {
-    "name": "sehati_dashboard",
-    "short_name": "sehati_dashboard",
+    "name": "efrili_dashboard",
+    "short_name": "efrili_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
