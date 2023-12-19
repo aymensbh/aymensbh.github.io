@@ -57822,7 +57822,7 @@ a5=B.c.ab(n.dx.a.a)
 if(a5.length===0)a5=null
 a6=B.c.ab(n.dy.a.a)
 s=7
-return A.C(n.a.f4(m,A.ap(["available",i,"isSingleLocation",h,"forAgents",g,"imageToUrl",f,"nameAr",e,"nameFr",d,"nameEn",c,"descriptionAr",b,"descriptionFr",a,"descriptionEn",a0,"commissionPersentage",a1,"kmRate",a2,"basePriceController",a3,"stampTaxController",a4,"taxPercentageController",a5,"nightAddedPercentageController",a6.length===0?null:a6],t.N,t.X)),$async$Ey)
+return A.C(n.a.f4(m,A.ap(["available",i,"isSingleLocation",h,"forAgents",g,"imageToUrl",f,"nameAr",e,"nameFr",d,"nameEn",c,"descriptionAr",b,"descriptionFr",a,"descriptionEn",a0,"commissionPersentage",a1,"kmRate",a2,"basePrice",a3,"stampTax",a4,"taxPercentage",a5,"nightAddedPercentage",a6.length===0?null:a6],t.N,t.X)),$async$Ey)
 case 7:l=b0
 k=null
 i=l.a
