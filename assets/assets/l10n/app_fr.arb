@@ -256,6 +256,7 @@
   "reason": "Motif de la visite",
   "relizane": "Relizane",
   "remindMe": "Rappelle moi",
+  "requiresSubServices": "Nécessite des sous-services",
   "reservationFee": "Frais de réservation",
   "reservationStatus": "Statut de réservation",
   "reservationStatusInfo": "Info sur l'état de la réservation",

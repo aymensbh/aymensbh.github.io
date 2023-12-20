@@ -256,6 +256,7 @@
   "reason": "سبب الزيارة",
   "relizane": "غليزان",
   "remindMe": "ذكرني",
+  "requiresSubServices": "يتطلب خدمات فرعية",
   "reservationFee": "رسوم الحجز",
   "reservationStatus": "حالة الحجز",
   "reservationStatusInfo": "معلومات حول حالة الحجز",
